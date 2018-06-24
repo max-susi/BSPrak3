@@ -1,10 +1,5 @@
-package ssp;
+package Aufgabe2;
 
-public enum Spielobjekt {
-    Schere,
-    Stein,
-    Papier ;
-
-
-
+public enum SpielObjekt {
+        SCHERE, STEIN, PAPIER
 }
