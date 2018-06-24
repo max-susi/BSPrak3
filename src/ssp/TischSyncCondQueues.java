@@ -1,5 +1,4 @@
-package Aufgabe2;
-
+package ssp;
 import java.util.LinkedList;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

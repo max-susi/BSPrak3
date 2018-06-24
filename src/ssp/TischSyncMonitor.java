@@ -1,5 +1,4 @@
-package Aufgabe2;
-
+package ssp;
 import java.util.LinkedList;
 
 public class TischSyncMonitor<E> implements Tisch<E> {

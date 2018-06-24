@@ -1,5 +1,4 @@
-package Aufgabe2;
-
+package ssp;
 public interface Tisch<E> {
     //Legt ein Element auf den Tisch
     public void put(E item) throws InterruptedException;

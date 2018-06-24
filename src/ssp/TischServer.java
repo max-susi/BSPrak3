@@ -1,4 +1,4 @@
-package Aufgabe2;
+package ssp;
 
 public class TischServer {
     public final int SIMULATION_TIME = 1000;// Simulationsdauer in ms

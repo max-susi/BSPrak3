@@ -1,5 +1,4 @@
-package Aufgabe2;
-
+package ssp;
 import java.util.Random;
 
 public class Spieler extends Thread{

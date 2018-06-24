@@ -1,4 +1,4 @@
-package Aufgabe2;
+package ssp;
 
 public class SchiedsrRichter extends Thread {
 
